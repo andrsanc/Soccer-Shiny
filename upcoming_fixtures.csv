@@ -1,123 +1,115 @@
 ﻿league.name,date,date.local,home.team,away.team,display.ind
-UEFA Europa League,2025-11-27,2025-11-27 10:45:00-08:00,Aston Villa FC,BSC Young Boys,Display
-UEFA Conference League,2025-11-27,2025-11-27 13:00:00-08:00,Strasbourg,Crystal Palace FC,Display
-UEFA Europa League,2025-11-27,2025-11-27 13:00:00-08:00,Nottingham Forest FC,Malmö FF,Display
-English Premier League,2025-11-29,2025-11-29 07:00:00-08:00,Sunderland AFC,AFC Bournemouth,Display
-English Premier League,2025-11-29,2025-11-29 07:00:00-08:00,Brentford FC,Burnley FC,Display
-English Premier League,2025-11-29,2025-11-29 07:00:00-08:00,Manchester City FC,Leeds United AFC,Display
-English Premier League,2025-11-29,2025-11-29 09:30:00-08:00,Everton FC,Newcastle United FC,Display
-English Premier League,2025-11-29,2025-11-29 12:00:00-08:00,Tottenham Hotspur FC,Fulham FC,Display
-English Premier League,2025-11-30,2025-11-30 06:05:00-08:00,Aston Villa FC,Wolverhampton Wanderers FC,Display
 English Premier League,2025-11-30,2025-11-30 08:30:00-08:00,Chelsea FC,Arsenal FC,Display
-English Premier League,2025-11-30,2025-11-30 06:05:00-08:00,Nottingham Forest FC,Brighton & Hove Albion FC,Display
-English Premier League,2025-11-30,2025-11-30 04:00:00-08:00,Crystal Palace FC,Manchester United FC,Display
 English Premier League,2025-11-30,2025-11-30 06:05:00-08:00,West Ham United FC,Liverpool FC,Display
-English Premier League,2025-12-02,2025-12-02 11:30:00-08:00,AFC Bournemouth,Everton FC,Display
+English Premier League,2025-11-30,2025-11-30 06:05:00-08:00,Nottingham Forest FC,Brighton & Hove Albion FC,Display
+English Premier League,2025-11-30,2025-11-30 06:05:00-08:00,Aston Villa FC,Wolverhampton Wanderers FC,Display
+English Premier League,2025-11-30,2025-11-30 04:00:00-08:00,Crystal Palace FC,Manchester United FC,Display
 English Premier League,2025-12-02,2025-12-02 11:30:00-08:00,Fulham FC,Manchester City FC,Display
 English Premier League,2025-12-02,2025-12-02 12:15:00-08:00,Newcastle United FC,Tottenham Hotspur FC,Display
-English Premier League,2025-12-03,2025-12-03 11:30:00-08:00,Burnley FC,Crystal Palace FC,Display
-English Premier League,2025-12-03,2025-12-03 11:30:00-08:00,Arsenal FC,Brentford FC,Display
+English Premier League,2025-12-02,2025-12-02 11:30:00-08:00,AFC Bournemouth,Everton FC,Display
 English Premier League,2025-12-03,2025-12-03 12:15:00-08:00,Leeds United AFC,Chelsea FC,Display
 English Premier League,2025-12-03,2025-12-03 12:15:00-08:00,Liverpool FC,Sunderland AFC,Display
 English Premier League,2025-12-03,2025-12-03 11:30:00-08:00,Wolverhampton Wanderers FC,Nottingham Forest FC,Display
 English Premier League,2025-12-03,2025-12-03 11:30:00-08:00,Brighton & Hove Albion FC,Aston Villa FC,Display
-English Premier League,2025-12-04,2025-12-04 12:00:00-08:00,Manchester United FC,West Ham United FC,Hide
-English Premier League,2025-12-06,2025-12-06 04:30:00-08:00,Aston Villa FC,Arsenal FC,Hide
-English Premier League,2025-12-06,2025-12-06 07:00:00-08:00,AFC Bournemouth,Chelsea FC,Hide
-English Premier League,2025-12-06,2025-12-06 07:00:00-08:00,Everton FC,Nottingham Forest FC,Hide
-English Premier League,2025-12-06,2025-12-06 07:00:00-08:00,Manchester City FC,Sunderland AFC,Hide
-English Premier League,2025-12-06,2025-12-06 07:00:00-08:00,Newcastle United FC,Burnley FC,Hide
-English Premier League,2025-12-06,2025-12-06 07:00:00-08:00,Tottenham Hotspur FC,Brentford FC,Hide
-English Premier League,2025-12-06,2025-12-06 09:30:00-08:00,Leeds United AFC,Liverpool FC,Hide
+English Premier League,2025-12-03,2025-12-03 11:30:00-08:00,Arsenal FC,Brentford FC,Display
+English Premier League,2025-12-03,2025-12-03 11:30:00-08:00,Burnley FC,Crystal Palace FC,Display
+English Premier League,2025-12-04,2025-12-04 12:00:00-08:00,Manchester United FC,West Ham United FC,Display
+English Premier League,2025-12-06,2025-12-06 07:00:00-08:00,Tottenham Hotspur FC,Brentford FC,Display
+English Premier League,2025-12-06,2025-12-06 09:30:00-08:00,Leeds United AFC,Liverpool FC,Display
+English Premier League,2025-12-06,2025-12-06 07:00:00-08:00,Newcastle United FC,Burnley FC,Display
+English Premier League,2025-12-06,2025-12-06 07:00:00-08:00,Everton FC,Nottingham Forest FC,Display
+English Premier League,2025-12-06,2025-12-06 07:00:00-08:00,AFC Bournemouth,Chelsea FC,Display
+English Premier League,2025-12-06,2025-12-06 04:30:00-08:00,Aston Villa FC,Arsenal FC,Display
+English Premier League,2025-12-06,2025-12-06 07:00:00-08:00,Manchester City FC,Sunderland AFC,Display
 English Premier League,2025-12-07,2025-12-07 06:00:00-08:00,Brighton & Hove Albion FC,West Ham United FC,Hide
 English Premier League,2025-12-07,2025-12-07 08:30:00-08:00,Fulham FC,Crystal Palace FC,Hide
 English Premier League,2025-12-08,2025-12-08 12:00:00-08:00,Wolverhampton Wanderers FC,Manchester United FC,Hide
 UEFA Champions League,2025-12-09,2025-12-09 12:00:00-08:00,FC Internazionale Milano,Liverpool FC,Hide
-UEFA Champions League,2025-12-09,2025-12-09 12:00:00-08:00,Atalanta BC,Chelsea FC,Hide
 UEFA Champions League,2025-12-09,2025-12-09 12:00:00-08:00,Tottenham Hotspur FC,SK Slavia Praha,Hide
-UEFA Champions League,2025-12-10,2025-12-10 12:00:00-08:00,Real Madrid CF,Manchester City FC,Hide
-UEFA Champions League,2025-12-10,2025-12-10 12:00:00-08:00,Club Brugge KV,Arsenal FC,Hide
+UEFA Champions League,2025-12-09,2025-12-09 12:00:00-08:00,Atalanta BC,Chelsea FC,Hide
 UEFA Champions League,2025-12-10,2025-12-10 12:00:00-08:00,Bayer 04 Leverkusen,Newcastle United FC,Hide
-UEFA Conference League,2025-12-11,2025-12-11 13:00:00-08:00,Shelbourne FC,Crystal Palace FC,Hide
-UEFA Europa League,2025-12-11,2025-12-11 13:00:00-08:00,FC Basel 1893,Aston Villa FC,Hide
+UEFA Champions League,2025-12-10,2025-12-10 12:00:00-08:00,Club Brugge KV,Arsenal FC,Hide
+UEFA Champions League,2025-12-10,2025-12-10 12:00:00-08:00,Real Madrid CF,Manchester City FC,Hide
 UEFA Europa League,2025-12-11,2025-12-11 10:45:00-08:00,Utrecht,Nottingham Forest FC,Hide
-English Premier League,2025-12-13,2025-12-13 07:00:00-08:00,Liverpool FC,Brighton & Hove Albion FC,Hide
-English Premier League,2025-12-13,2025-12-13 07:00:00-08:00,Chelsea FC,Everton FC,Hide
+UEFA Europa League,2025-12-11,2025-12-11 13:00:00-08:00,FC Basel 1893,Aston Villa FC,Hide
+UEFA Conference League,2025-12-11,2025-12-11 13:00:00-08:00,Shelbourne FC,Crystal Palace FC,Hide
 English Premier League,2025-12-13,2025-12-13 09:30:00-08:00,Burnley FC,Fulham FC,Hide
+English Premier League,2025-12-13,2025-12-13 07:00:00-08:00,Chelsea FC,Everton FC,Hide
+English Premier League,2025-12-13,2025-12-13 07:00:00-08:00,Liverpool FC,Brighton & Hove Albion FC,Hide
 English Premier League,2025-12-13,2025-12-13 12:00:00-08:00,Arsenal FC,Wolverhampton Wanderers FC,Hide
+English Premier League,2025-12-14,2025-12-14 06:00:00-08:00,Crystal Palace FC,Manchester City FC,Hide
 English Premier League,2025-12-14,2025-12-14 08:30:00-08:00,Brentford FC,Leeds United AFC,Hide
 English Premier League,2025-12-14,2025-12-14 06:00:00-08:00,West Ham United FC,Aston Villa FC,Hide
 English Premier League,2025-12-14,2025-12-14 06:00:00-08:00,Nottingham Forest FC,Tottenham Hotspur FC,Hide
-English Premier League,2025-12-14,2025-12-14 06:00:00-08:00,Crystal Palace FC,Manchester City FC,Hide
 English Premier League,2025-12-14,2025-12-14 06:00:00-08:00,Sunderland AFC,Newcastle United FC,Hide
 English Premier League,2025-12-15,2025-12-15 12:00:00-08:00,Manchester United FC,AFC Bournemouth,Hide
 EFL Cup,2025-12-16,2025-12-16 12:00:00-08:00,Cardiff City FC,Chelsea FC,Hide
 EFL Cup,2025-12-17,2025-12-17 11:30:00-08:00,Manchester City FC,Brentford FC,Hide
 EFL Cup,2025-12-17,2025-12-17 12:15:00-08:00,Newcastle United FC,Fulham FC,Hide
 UEFA Conference League,2025-12-18,2025-12-18 13:00:00-08:00,Crystal Palace FC,Kuopion Palloseura,Hide
-English Premier League,2025-12-20,2025-12-20 07:00:00-08:00,AFC Bournemouth,Burnley FC,Hide
-English Premier League,2025-12-20,2025-12-20 12:00:00-08:00,Leeds United AFC,Crystal Palace FC,Hide
-English Premier League,2025-12-20,2025-12-20 04:30:00-08:00,Newcastle United FC,Chelsea FC,Hide
-English Premier League,2025-12-20,2025-12-20 07:00:00-08:00,Brighton & Hove Albion FC,Sunderland AFC,Hide
-English Premier League,2025-12-20,2025-12-20 07:00:00-08:00,Manchester City FC,West Ham United FC,Hide
-English Premier League,2025-12-20,2025-12-20 07:00:00-08:00,Wolverhampton Wanderers FC,Brentford FC,Hide
-English Premier League,2025-12-20,2025-12-20 09:30:00-08:00,Tottenham Hotspur FC,Liverpool FC,Hide
 English Premier League,2025-12-20,2025-12-20 12:00:00-08:00,Everton FC,Arsenal FC,Hide
+English Premier League,2025-12-20,2025-12-20 07:00:00-08:00,Manchester City FC,West Ham United FC,Hide
+English Premier League,2025-12-20,2025-12-20 07:00:00-08:00,Brighton & Hove Albion FC,Sunderland AFC,Hide
+English Premier League,2025-12-20,2025-12-20 07:00:00-08:00,Wolverhampton Wanderers FC,Brentford FC,Hide
+English Premier League,2025-12-20,2025-12-20 04:30:00-08:00,Newcastle United FC,Chelsea FC,Hide
+English Premier League,2025-12-20,2025-12-20 09:30:00-08:00,Tottenham Hotspur FC,Liverpool FC,Hide
+English Premier League,2025-12-20,2025-12-20 12:00:00-08:00,Leeds United AFC,Crystal Palace FC,Hide
+English Premier League,2025-12-20,2025-12-20 07:00:00-08:00,AFC Bournemouth,Burnley FC,Hide
 English Premier League,2025-12-21,2025-12-21 08:30:00-08:00,Aston Villa FC,Manchester United FC,Hide
 English Premier League,2025-12-22,2025-12-22 12:00:00-08:00,Fulham FC,Nottingham Forest FC,Hide
 EFL Cup,2025-12-23,2025-12-23 12:00:00-08:00,Arsenal FC,Crystal Palace FC,Hide
 English Premier League,2025-12-26,2025-12-26 12:00:00-08:00,Manchester United FC,Newcastle United FC,Hide
 English Premier League,2025-12-27,2025-12-27 04:30:00-08:00,Nottingham Forest FC,Manchester City FC,Hide
 English Premier League,2025-12-27,2025-12-27 07:00:00-08:00,Brentford FC,AFC Bournemouth,Hide
-English Premier League,2025-12-27,2025-12-27 07:00:00-08:00,Burnley FC,Everton FC,Hide
 English Premier League,2025-12-27,2025-12-27 07:00:00-08:00,Arsenal FC,Brighton & Hove Albion FC,Hide
-English Premier League,2025-12-27,2025-12-27 09:30:00-08:00,Chelsea FC,Aston Villa FC,Hide
-English Premier League,2025-12-27,2025-12-27 07:00:00-08:00,Liverpool FC,Wolverhampton Wanderers FC,Hide
 English Premier League,2025-12-27,2025-12-27 07:00:00-08:00,West Ham United FC,Fulham FC,Hide
+English Premier League,2025-12-27,2025-12-27 07:00:00-08:00,Liverpool FC,Wolverhampton Wanderers FC,Hide
+English Premier League,2025-12-27,2025-12-27 07:00:00-08:00,Burnley FC,Everton FC,Hide
+English Premier League,2025-12-27,2025-12-27 09:30:00-08:00,Chelsea FC,Aston Villa FC,Hide
 English Premier League,2025-12-28,2025-12-28 06:00:00-08:00,Sunderland AFC,Leeds United AFC,Hide
 English Premier League,2025-12-28,2025-12-28 08:30:00-08:00,Crystal Palace FC,Tottenham Hotspur FC,Hide
+English Premier League,2025-12-30,2025-12-30 11:30:00-08:00,West Ham United FC,Brighton & Hove Albion FC,Hide
 English Premier League,2025-12-30,2025-12-30 12:15:00-08:00,Manchester United FC,Wolverhampton Wanderers FC,Hide
+English Premier League,2025-12-30,2025-12-30 11:30:00-08:00,Nottingham Forest FC,Everton FC,Hide
 English Premier League,2025-12-30,2025-12-30 11:30:00-08:00,Burnley FC,Newcastle United FC,Hide
 English Premier League,2025-12-30,2025-12-30 11:30:00-08:00,Chelsea FC,AFC Bournemouth,Hide
-English Premier League,2025-12-30,2025-12-30 11:30:00-08:00,Nottingham Forest FC,Everton FC,Hide
-English Premier League,2025-12-30,2025-12-30 11:30:00-08:00,West Ham United FC,Brighton & Hove Albion FC,Hide
 English Premier League,2025-12-30,2025-12-30 12:15:00-08:00,Arsenal FC,Aston Villa FC,Hide
+English Premier League,2026-01-01,2026-01-01 12:00:00-08:00,Brentford FC,Tottenham Hotspur FC,Hide
+English Premier League,2026-01-01,2026-01-01 12:00:00-08:00,Sunderland AFC,Manchester City FC,Hide
 English Premier League,2026-01-01,2026-01-01 09:30:00-08:00,Crystal Palace FC,Fulham FC,Hide
 English Premier League,2026-01-01,2026-01-01 09:30:00-08:00,Liverpool FC,Leeds United AFC,Hide
-English Premier League,2026-01-01,2026-01-01 12:00:00-08:00,Sunderland AFC,Manchester City FC,Hide
-English Premier League,2026-01-01,2026-01-01 12:00:00-08:00,Brentford FC,Tottenham Hotspur FC,Hide
 English Premier League,2026-01-03,2026-01-03 04:30:00-08:00,Aston Villa FC,Nottingham Forest FC,Hide
 English Premier League,2026-01-03,2026-01-03 07:00:00-08:00,Brighton & Hove Albion FC,Burnley FC,Hide
-English Premier League,2026-01-03,2026-01-03 09:30:00-08:00,AFC Bournemouth,Arsenal FC,Hide
 English Premier League,2026-01-03,2026-01-03 07:00:00-08:00,Wolverhampton Wanderers FC,West Ham United FC,Hide
-English Premier League,2026-01-04,2026-01-04 09:30:00-08:00,Manchester City FC,Chelsea FC,Hide
-English Premier League,2026-01-04,2026-01-04 07:00:00-08:00,Tottenham Hotspur FC,Sunderland AFC,Hide
+English Premier League,2026-01-03,2026-01-03 09:30:00-08:00,AFC Bournemouth,Arsenal FC,Hide
 English Premier League,2026-01-04,2026-01-04 07:00:00-08:00,Newcastle United FC,Crystal Palace FC,Hide
+English Premier League,2026-01-04,2026-01-04 07:00:00-08:00,Tottenham Hotspur FC,Sunderland AFC,Hide
+English Premier League,2026-01-04,2026-01-04 09:30:00-08:00,Manchester City FC,Chelsea FC,Hide
 English Premier League,2026-01-04,2026-01-04 04:30:00-08:00,Leeds United AFC,Manchester United FC,Hide
 English Premier League,2026-01-04,2026-01-04 07:00:00-08:00,Everton FC,Brentford FC,Hide
 English Premier League,2026-01-04,2026-01-04 07:00:00-08:00,Fulham FC,Liverpool FC,Hide
 English Premier League,2026-01-06,2026-01-06 12:00:00-08:00,West Ham United FC,Nottingham Forest FC,Hide
+English Premier League,2026-01-07,2026-01-07 11:30:00-08:00,Manchester City FC,Brighton & Hove Albion FC,Hide
 English Premier League,2026-01-07,2026-01-07 12:15:00-08:00,Burnley FC,Manchester United FC,Hide
 English Premier League,2026-01-07,2026-01-07 12:15:00-08:00,Newcastle United FC,Leeds United AFC,Hide
+English Premier League,2026-01-07,2026-01-07 11:30:00-08:00,Fulham FC,Chelsea FC,Hide
+English Premier League,2026-01-07,2026-01-07 11:30:00-08:00,Everton FC,Wolverhampton Wanderers FC,Hide
+English Premier League,2026-01-07,2026-01-07 11:30:00-08:00,Brentford FC,Sunderland AFC,Hide
 English Premier League,2026-01-07,2026-01-07 11:30:00-08:00,AFC Bournemouth,Tottenham Hotspur FC,Hide
 English Premier League,2026-01-07,2026-01-07 11:30:00-08:00,Crystal Palace FC,Aston Villa FC,Hide
-English Premier League,2026-01-07,2026-01-07 11:30:00-08:00,Brentford FC,Sunderland AFC,Hide
-English Premier League,2026-01-07,2026-01-07 11:30:00-08:00,Everton FC,Wolverhampton Wanderers FC,Hide
-English Premier League,2026-01-07,2026-01-07 11:30:00-08:00,Fulham FC,Chelsea FC,Hide
-English Premier League,2026-01-07,2026-01-07 11:30:00-08:00,Manchester City FC,Brighton & Hove Albion FC,Hide
 English Premier League,2026-01-08,2026-01-08 12:00:00-08:00,Arsenal FC,Liverpool FC,Hide
-English Premier League,2026-01-17,2026-01-17 07:00:00-08:00,Sunderland AFC,Crystal Palace FC,Hide
-English Premier League,2026-01-17,2026-01-17 07:00:00-08:00,Tottenham Hotspur FC,West Ham United FC,Hide
-English Premier League,2026-01-17,2026-01-17 09:30:00-08:00,Nottingham Forest FC,Arsenal FC,Hide
-English Premier League,2026-01-17,2026-01-17 07:00:00-08:00,Leeds United AFC,Fulham FC,Hide
 English Premier League,2026-01-17,2026-01-17 04:30:00-08:00,Manchester United FC,Manchester City FC,Hide
+English Premier League,2026-01-17,2026-01-17 07:00:00-08:00,Sunderland AFC,Crystal Palace FC,Hide
 English Premier League,2026-01-17,2026-01-17 07:00:00-08:00,Chelsea FC,Brentford FC,Hide
 English Premier League,2026-01-17,2026-01-17 07:00:00-08:00,Liverpool FC,Burnley FC,Hide
+English Premier League,2026-01-17,2026-01-17 07:00:00-08:00,Leeds United AFC,Fulham FC,Hide
+English Premier League,2026-01-17,2026-01-17 09:30:00-08:00,Nottingham Forest FC,Arsenal FC,Hide
+English Premier League,2026-01-17,2026-01-17 07:00:00-08:00,Tottenham Hotspur FC,West Ham United FC,Hide
 English Premier League,2026-01-18,2026-01-18 06:00:00-08:00,Wolverhampton Wanderers FC,Newcastle United FC,Hide
 English Premier League,2026-01-18,2026-01-18 08:30:00-08:00,Aston Villa FC,Everton FC,Hide
 English Premier League,2026-01-19,2026-01-19 12:00:00-08:00,Brighton & Hove Albion FC,AFC Bournemouth,Hide
-UEFA Champions League,2026-01-20,2026-01-20 12:00:00-08:00,Tottenham Hotspur FC,BV Borussia 09 Dortmund,Hide
 UEFA Champions League,2026-01-20,2026-01-20 12:00:00-08:00,FC Internazionale Milano,Arsenal FC,Hide
+UEFA Champions League,2026-01-20,2026-01-20 12:00:00-08:00,Tottenham Hotspur FC,BV Borussia 09 Dortmund,Hide
 UEFA Champions League,2026-01-20,2026-01-20 09:45:00-08:00,FK Bodø/Glimt,Manchester City FC,Hide
 UEFA Champions League,2026-01-21,2026-01-21 12:00:00-08:00,Newcastle United FC,PSV Eindhoven,Hide
 UEFA Champions League,2026-01-21,2026-01-21 12:00:00-08:00,﻿Olympique de Marseille,Liverpool FC,Hide
@@ -125,14 +117,14 @@ UEFA Champions League,2026-01-21,2026-01-21 12:00:00-08:00,Chelsea FC,Pafos FC,H
 UEFA Europa League,2026-01-22,2026-01-22 13:00:00-08:00,Sporting Clube de Braga,Nottingham Forest FC,Hide
 UEFA Europa League,2026-01-22,2026-01-22 10:45:00-08:00,Fenerbahçe SK,Aston Villa FC,Hide
 English Premier League,2026-01-24,2026-01-24 04:30:00-08:00,West Ham United FC,Sunderland AFC,Hide
-English Premier League,2026-01-24,2026-01-24 07:00:00-08:00,Brentford FC,Nottingham Forest FC,Hide
+English Premier League,2026-01-24,2026-01-24 07:00:00-08:00,Burnley FC,Tottenham Hotspur FC,Hide
 English Premier League,2026-01-24,2026-01-24 07:00:00-08:00,Fulham FC,Brighton & Hove Albion FC,Hide
 English Premier League,2026-01-24,2026-01-24 07:00:00-08:00,Manchester City FC,Wolverhampton Wanderers FC,Hide
-English Premier League,2026-01-24,2026-01-24 07:00:00-08:00,Burnley FC,Tottenham Hotspur FC,Hide
 English Premier League,2026-01-24,2026-01-24 09:30:00-08:00,AFC Bournemouth,Liverpool FC,Hide
 English Premier League,2026-01-25,2026-01-25 08:30:00-08:00,Arsenal FC,Manchester United FC,Hide
 English Premier League,2026-01-25,2026-01-25 06:00:00-08:00,Newcastle United FC,Aston Villa FC,Hide
 English Premier League,2026-01-25,2026-01-25 06:00:00-08:00,Crystal Palace FC,Chelsea FC,Hide
+English Premier League,2026-01-25,2026-01-25 06:00:00-08:00,Brentford FC,Nottingham Forest FC,Hide
 English Premier League,2026-01-26,2026-01-26 12:00:00-08:00,Everton FC,Leeds United AFC,Hide
 UEFA Champions League,2026-01-28,2026-01-28 12:00:00-08:00,SSC Napoli,Chelsea FC,Hide
 UEFA Champions League,2026-01-28,2026-01-28 12:00:00-08:00,Manchester City FC,Galatasaray SK,Hide
@@ -142,153 +134,153 @@ UEFA Champions League,2026-01-28,2026-01-28 12:00:00-08:00,Paris Saint-Germain F
 UEFA Champions League,2026-01-28,2026-01-28 12:00:00-08:00,Liverpool FC,Qarabağ Ağdam FK,Hide
 UEFA Europa League,2026-01-29,2026-01-29 13:00:00-08:00,Nottingham Forest FC,Ferencvárosi TC,Hide
 UEFA Europa League,2026-01-29,2026-01-29 13:00:00-08:00,Aston Villa FC,FC Red Bull Salzburg,Hide
-English Premier League,2026-01-31,2026-01-31 12:00:00-08:00,Liverpool FC,Newcastle United FC,Hide
-English Premier League,2026-01-31,2026-01-31 07:00:00-08:00,Wolverhampton Wanderers FC,AFC Bournemouth,Hide
 English Premier League,2026-01-31,2026-01-31 09:30:00-08:00,Chelsea FC,West Ham United FC,Hide
+English Premier League,2026-01-31,2026-01-31 07:00:00-08:00,Wolverhampton Wanderers FC,AFC Bournemouth,Hide
+English Premier League,2026-01-31,2026-01-31 12:00:00-08:00,Liverpool FC,Newcastle United FC,Hide
 English Premier League,2026-01-31,2026-01-31 07:00:00-08:00,Brighton & Hove Albion FC,Everton FC,Hide
 English Premier League,2026-01-31,2026-01-31 07:00:00-08:00,Leeds United AFC,Arsenal FC,Hide
-English Premier League,2026-02-01,2026-02-01 06:00:00-08:00,Aston Villa FC,Brentford FC,Hide
-English Premier League,2026-02-01,2026-02-01 06:00:00-08:00,Manchester United FC,Fulham FC,Hide
-English Premier League,2026-02-01,2026-02-01 06:00:00-08:00,Nottingham Forest FC,Crystal Palace FC,Hide
 English Premier League,2026-02-01,2026-02-01 08:30:00-08:00,Tottenham Hotspur FC,Manchester City FC,Hide
+English Premier League,2026-02-01,2026-02-01 06:00:00-08:00,Nottingham Forest FC,Crystal Palace FC,Hide
+English Premier League,2026-02-01,2026-02-01 06:00:00-08:00,Manchester United FC,Fulham FC,Hide
+English Premier League,2026-02-01,2026-02-01 06:00:00-08:00,Aston Villa FC,Brentford FC,Hide
 English Premier League,2026-02-02,2026-02-02 12:00:00-08:00,Sunderland AFC,Burnley FC,Hide
-English Premier League,2026-02-07,2026-02-06 16:00:00-08:00,Manchester United FC,Tottenham Hotspur FC,Hide
-English Premier League,2026-02-07,2026-02-06 16:00:00-08:00,Leeds United AFC,Nottingham Forest FC,Hide
 English Premier League,2026-02-07,2026-02-06 16:00:00-08:00,Burnley FC,West Ham United FC,Hide
-English Premier League,2026-02-07,2026-02-06 16:00:00-08:00,Newcastle United FC,Brentford FC,Hide
-English Premier League,2026-02-07,2026-02-06 16:00:00-08:00,Wolverhampton Wanderers FC,Chelsea FC,Hide
-English Premier League,2026-02-07,2026-02-06 16:00:00-08:00,Arsenal FC,Sunderland AFC,Hide
-English Premier League,2026-02-07,2026-02-06 16:00:00-08:00,Brighton & Hove Albion FC,Crystal Palace FC,Hide
-English Premier League,2026-02-07,2026-02-06 16:00:00-08:00,AFC Bournemouth,Aston Villa FC,Hide
-English Premier League,2026-02-07,2026-02-06 16:00:00-08:00,Liverpool FC,Manchester City FC,Hide
 English Premier League,2026-02-07,2026-02-06 16:00:00-08:00,Fulham FC,Everton FC,Hide
-English Premier League,2026-02-11,2026-02-10 16:00:00-08:00,Sunderland AFC,Liverpool FC,Hide
-English Premier League,2026-02-11,2026-02-10 16:00:00-08:00,Nottingham Forest FC,Wolverhampton Wanderers FC,Hide
-English Premier League,2026-02-11,2026-02-10 16:00:00-08:00,Manchester City FC,Fulham FC,Hide
-English Premier League,2026-02-11,2026-02-10 16:00:00-08:00,Everton FC,AFC Bournemouth,Hide
+English Premier League,2026-02-07,2026-02-06 16:00:00-08:00,Liverpool FC,Manchester City FC,Hide
+English Premier League,2026-02-07,2026-02-06 16:00:00-08:00,Leeds United AFC,Nottingham Forest FC,Hide
+English Premier League,2026-02-07,2026-02-06 16:00:00-08:00,Manchester United FC,Tottenham Hotspur FC,Hide
+English Premier League,2026-02-07,2026-02-06 16:00:00-08:00,AFC Bournemouth,Aston Villa FC,Hide
+English Premier League,2026-02-07,2026-02-06 16:00:00-08:00,Wolverhampton Wanderers FC,Chelsea FC,Hide
+English Premier League,2026-02-07,2026-02-06 16:00:00-08:00,Brighton & Hove Albion FC,Crystal Palace FC,Hide
+English Premier League,2026-02-07,2026-02-06 16:00:00-08:00,Arsenal FC,Sunderland AFC,Hide
+English Premier League,2026-02-07,2026-02-06 16:00:00-08:00,Newcastle United FC,Brentford FC,Hide
 English Premier League,2026-02-11,2026-02-10 16:00:00-08:00,West Ham United FC,Manchester United FC,Hide
-English Premier League,2026-02-11,2026-02-10 16:00:00-08:00,Chelsea FC,Leeds United AFC,Hide
-English Premier League,2026-02-11,2026-02-10 16:00:00-08:00,Brentford FC,Arsenal FC,Hide
-English Premier League,2026-02-11,2026-02-10 16:00:00-08:00,Crystal Palace FC,Burnley FC,Hide
-English Premier League,2026-02-11,2026-02-10 16:00:00-08:00,Aston Villa FC,Brighton & Hove Albion FC,Hide
+English Premier League,2026-02-11,2026-02-10 16:00:00-08:00,Manchester City FC,Fulham FC,Hide
+English Premier League,2026-02-11,2026-02-10 16:00:00-08:00,Nottingham Forest FC,Wolverhampton Wanderers FC,Hide
 English Premier League,2026-02-11,2026-02-10 16:00:00-08:00,Tottenham Hotspur FC,Newcastle United FC,Hide
-English Premier League,2026-02-21,2026-02-20 16:00:00-08:00,Chelsea FC,Burnley FC,Hide
+English Premier League,2026-02-11,2026-02-10 16:00:00-08:00,Chelsea FC,Leeds United AFC,Hide
+English Premier League,2026-02-11,2026-02-10 16:00:00-08:00,Everton FC,AFC Bournemouth,Hide
+English Premier League,2026-02-11,2026-02-10 16:00:00-08:00,Brentford FC,Arsenal FC,Hide
+English Premier League,2026-02-11,2026-02-10 16:00:00-08:00,Sunderland AFC,Liverpool FC,Hide
+English Premier League,2026-02-11,2026-02-10 16:00:00-08:00,Aston Villa FC,Brighton & Hove Albion FC,Hide
+English Premier League,2026-02-11,2026-02-10 16:00:00-08:00,Crystal Palace FC,Burnley FC,Hide
+English Premier League,2026-02-21,2026-02-20 16:00:00-08:00,Sunderland AFC,Fulham FC,Hide
 English Premier League,2026-02-21,2026-02-20 16:00:00-08:00,Everton FC,Manchester United FC,Hide
-English Premier League,2026-02-21,2026-02-20 16:00:00-08:00,Brentford FC,Brighton & Hove Albion FC,Hide
 English Premier League,2026-02-21,2026-02-20 16:00:00-08:00,Nottingham Forest FC,Liverpool FC,Hide
-English Premier League,2026-02-21,2026-02-20 16:00:00-08:00,Manchester City FC,Newcastle United FC,Hide
+English Premier League,2026-02-21,2026-02-20 16:00:00-08:00,Aston Villa FC,Leeds United AFC,Hide
 English Premier League,2026-02-21,2026-02-20 16:00:00-08:00,West Ham United FC,AFC Bournemouth,Hide
+English Premier League,2026-02-21,2026-02-20 16:00:00-08:00,Brentford FC,Brighton & Hove Albion FC,Hide
+English Premier League,2026-02-21,2026-02-20 16:00:00-08:00,Manchester City FC,Newcastle United FC,Hide
+English Premier League,2026-02-21,2026-02-20 16:00:00-08:00,Chelsea FC,Burnley FC,Hide
 English Premier League,2026-02-21,2026-02-20 16:00:00-08:00,Tottenham Hotspur FC,Arsenal FC,Hide
 English Premier League,2026-02-21,2026-02-20 16:00:00-08:00,Crystal Palace FC,Wolverhampton Wanderers FC,Hide
-English Premier League,2026-02-21,2026-02-20 16:00:00-08:00,Sunderland AFC,Fulham FC,Hide
-English Premier League,2026-02-21,2026-02-20 16:00:00-08:00,Aston Villa FC,Leeds United AFC,Hide
-English Premier League,2026-02-28,2026-02-27 16:00:00-08:00,Fulham FC,Tottenham Hotspur FC,Hide
+English Premier League,2026-02-28,2026-02-27 16:00:00-08:00,Wolverhampton Wanderers FC,Aston Villa FC,Hide
+English Premier League,2026-02-28,2026-02-27 16:00:00-08:00,Arsenal FC,Chelsea FC,Hide
+English Premier League,2026-02-28,2026-02-27 16:00:00-08:00,AFC Bournemouth,Sunderland AFC,Hide
+English Premier League,2026-02-28,2026-02-27 16:00:00-08:00,Brighton & Hove Albion FC,Nottingham Forest FC,Hide
 English Premier League,2026-02-28,2026-02-27 16:00:00-08:00,Burnley FC,Brentford FC,Hide
 English Premier League,2026-02-28,2026-02-27 16:00:00-08:00,Newcastle United FC,Everton FC,Hide
-English Premier League,2026-02-28,2026-02-27 16:00:00-08:00,Wolverhampton Wanderers FC,Aston Villa FC,Hide
-English Premier League,2026-02-28,2026-02-27 16:00:00-08:00,Manchester United FC,Crystal Palace FC,Hide
 English Premier League,2026-02-28,2026-02-27 16:00:00-08:00,Liverpool FC,West Ham United FC,Hide
-English Premier League,2026-02-28,2026-02-27 16:00:00-08:00,AFC Bournemouth,Sunderland AFC,Hide
 English Premier League,2026-02-28,2026-02-27 16:00:00-08:00,Leeds United AFC,Manchester City FC,Hide
-English Premier League,2026-02-28,2026-02-27 16:00:00-08:00,Brighton & Hove Albion FC,Nottingham Forest FC,Hide
-English Premier League,2026-02-28,2026-02-27 16:00:00-08:00,Arsenal FC,Chelsea FC,Hide
-English Premier League,2026-03-04,2026-03-03 16:00:00-08:00,Aston Villa FC,Chelsea FC,Hide
-English Premier League,2026-03-04,2026-03-03 16:00:00-08:00,Brighton & Hove Albion FC,Arsenal FC,Hide
-English Premier League,2026-03-04,2026-03-03 16:00:00-08:00,AFC Bournemouth,Brentford FC,Hide
-English Premier League,2026-03-04,2026-03-03 16:00:00-08:00,Everton FC,Burnley FC,Hide
-English Premier League,2026-03-04,2026-03-03 16:00:00-08:00,Fulham FC,West Ham United FC,Hide
-English Premier League,2026-03-04,2026-03-03 16:00:00-08:00,Newcastle United FC,Manchester United FC,Hide
-English Premier League,2026-03-04,2026-03-03 16:00:00-08:00,Manchester City FC,Nottingham Forest FC,Hide
-English Premier League,2026-03-04,2026-03-03 16:00:00-08:00,Tottenham Hotspur FC,Crystal Palace FC,Hide
+English Premier League,2026-02-28,2026-02-27 16:00:00-08:00,Manchester United FC,Crystal Palace FC,Hide
+English Premier League,2026-02-28,2026-02-27 16:00:00-08:00,Fulham FC,Tottenham Hotspur FC,Hide
 English Premier League,2026-03-04,2026-03-03 16:00:00-08:00,Wolverhampton Wanderers FC,Liverpool FC,Hide
+English Premier League,2026-03-04,2026-03-03 16:00:00-08:00,Newcastle United FC,Manchester United FC,Hide
 English Premier League,2026-03-04,2026-03-03 16:00:00-08:00,Leeds United AFC,Sunderland AFC,Hide
-English Premier League,2026-03-14,2026-03-13 17:00:00-07:00,West Ham United FC,Manchester City FC,Hide
-English Premier League,2026-03-14,2026-03-13 17:00:00-07:00,Arsenal FC,Everton FC,Hide
-English Premier League,2026-03-14,2026-03-13 17:00:00-07:00,Nottingham Forest FC,Fulham FC,Hide
-English Premier League,2026-03-14,2026-03-13 17:00:00-07:00,Sunderland AFC,Brighton & Hove Albion FC,Hide
-English Premier League,2026-03-14,2026-03-13 17:00:00-07:00,Crystal Palace FC,Leeds United AFC,Hide
-English Premier League,2026-03-14,2026-03-13 17:00:00-07:00,Brentford FC,Wolverhampton Wanderers FC,Hide
-English Premier League,2026-03-14,2026-03-13 17:00:00-07:00,Burnley FC,AFC Bournemouth,Hide
+English Premier League,2026-03-04,2026-03-03 16:00:00-08:00,Fulham FC,West Ham United FC,Hide
+English Premier League,2026-03-04,2026-03-03 16:00:00-08:00,Manchester City FC,Nottingham Forest FC,Hide
+English Premier League,2026-03-04,2026-03-03 16:00:00-08:00,Brighton & Hove Albion FC,Arsenal FC,Hide
+English Premier League,2026-03-04,2026-03-03 16:00:00-08:00,Aston Villa FC,Chelsea FC,Hide
+English Premier League,2026-03-04,2026-03-03 16:00:00-08:00,AFC Bournemouth,Brentford FC,Hide
+English Premier League,2026-03-04,2026-03-03 16:00:00-08:00,Tottenham Hotspur FC,Crystal Palace FC,Hide
+English Premier League,2026-03-04,2026-03-03 16:00:00-08:00,Everton FC,Burnley FC,Hide
 English Premier League,2026-03-14,2026-03-13 17:00:00-07:00,Chelsea FC,Newcastle United FC,Hide
-English Premier League,2026-03-14,2026-03-13 17:00:00-07:00,Liverpool FC,Tottenham Hotspur FC,Hide
+English Premier League,2026-03-14,2026-03-13 17:00:00-07:00,Brentford FC,Wolverhampton Wanderers FC,Hide
+English Premier League,2026-03-14,2026-03-13 17:00:00-07:00,Sunderland AFC,Brighton & Hove Albion FC,Hide
+English Premier League,2026-03-14,2026-03-13 17:00:00-07:00,Arsenal FC,Everton FC,Hide
+English Premier League,2026-03-14,2026-03-13 17:00:00-07:00,Burnley FC,AFC Bournemouth,Hide
+English Premier League,2026-03-14,2026-03-13 17:00:00-07:00,West Ham United FC,Manchester City FC,Hide
+English Premier League,2026-03-14,2026-03-13 17:00:00-07:00,Nottingham Forest FC,Fulham FC,Hide
 English Premier League,2026-03-14,2026-03-13 17:00:00-07:00,Manchester United FC,Aston Villa FC,Hide
-English Premier League,2026-03-21,2026-03-20 17:00:00-07:00,Newcastle United FC,Sunderland AFC,Hide
-English Premier League,2026-03-21,2026-03-20 17:00:00-07:00,Tottenham Hotspur FC,Nottingham Forest FC,Hide
-English Premier League,2026-03-21,2026-03-20 17:00:00-07:00,AFC Bournemouth,Manchester United FC,Hide
+English Premier League,2026-03-14,2026-03-13 17:00:00-07:00,Liverpool FC,Tottenham Hotspur FC,Hide
+English Premier League,2026-03-14,2026-03-13 17:00:00-07:00,Crystal Palace FC,Leeds United AFC,Hide
 English Premier League,2026-03-21,2026-03-20 17:00:00-07:00,Leeds United AFC,Brentford FC,Hide
-English Premier League,2026-03-21,2026-03-20 17:00:00-07:00,Wolverhampton Wanderers FC,Arsenal FC,Hide
-English Premier League,2026-03-21,2026-03-20 17:00:00-07:00,Everton FC,Chelsea FC,Hide
-English Premier League,2026-03-21,2026-03-20 17:00:00-07:00,Fulham FC,Burnley FC,Hide
-English Premier League,2026-03-21,2026-03-20 17:00:00-07:00,Brighton & Hove Albion FC,Liverpool FC,Hide
+English Premier League,2026-03-21,2026-03-20 17:00:00-07:00,AFC Bournemouth,Manchester United FC,Hide
+English Premier League,2026-03-21,2026-03-20 17:00:00-07:00,Newcastle United FC,Sunderland AFC,Hide
 English Premier League,2026-03-21,2026-03-20 17:00:00-07:00,Aston Villa FC,West Ham United FC,Hide
+English Premier League,2026-03-21,2026-03-20 17:00:00-07:00,Brighton & Hove Albion FC,Liverpool FC,Hide
+English Premier League,2026-03-21,2026-03-20 17:00:00-07:00,Everton FC,Chelsea FC,Hide
+English Premier League,2026-03-21,2026-03-20 17:00:00-07:00,Wolverhampton Wanderers FC,Arsenal FC,Hide
+English Premier League,2026-03-21,2026-03-20 17:00:00-07:00,Tottenham Hotspur FC,Nottingham Forest FC,Hide
+English Premier League,2026-03-21,2026-03-20 17:00:00-07:00,Fulham FC,Burnley FC,Hide
 English Premier League,2026-03-21,2026-03-20 17:00:00-07:00,Manchester City FC,Crystal Palace FC,Hide
-English Premier League,2026-04-11,2026-04-10 17:00:00-07:00,Liverpool FC,Fulham FC,Hide
+English Premier League,2026-04-11,2026-04-10 17:00:00-07:00,Nottingham Forest FC,Aston Villa FC,Hide
 English Premier League,2026-04-11,2026-04-10 17:00:00-07:00,Chelsea FC,Manchester City FC,Hide
 English Premier League,2026-04-11,2026-04-10 17:00:00-07:00,Burnley FC,Brighton & Hove Albion FC,Hide
 English Premier League,2026-04-11,2026-04-10 17:00:00-07:00,Brentford FC,Everton FC,Hide
-English Premier League,2026-04-11,2026-04-10 17:00:00-07:00,Nottingham Forest FC,Aston Villa FC,Hide
+English Premier League,2026-04-11,2026-04-10 17:00:00-07:00,West Ham United FC,Wolverhampton Wanderers FC,Hide
 English Premier League,2026-04-11,2026-04-10 17:00:00-07:00,Crystal Palace FC,Newcastle United FC,Hide
 English Premier League,2026-04-11,2026-04-10 17:00:00-07:00,Sunderland AFC,Tottenham Hotspur FC,Hide
-English Premier League,2026-04-11,2026-04-10 17:00:00-07:00,West Ham United FC,Wolverhampton Wanderers FC,Hide
+English Premier League,2026-04-11,2026-04-10 17:00:00-07:00,Liverpool FC,Fulham FC,Hide
 English Premier League,2026-04-11,2026-04-10 17:00:00-07:00,Arsenal FC,AFC Bournemouth,Hide
 English Premier League,2026-04-11,2026-04-10 17:00:00-07:00,Manchester United FC,Leeds United AFC,Hide
 English Premier League,2026-04-18,2026-04-17 17:00:00-07:00,Crystal Palace FC,West Ham United FC,Hide
-English Premier League,2026-04-18,2026-04-17 17:00:00-07:00,Chelsea FC,Manchester United FC,Hide
-English Premier League,2026-04-18,2026-04-17 17:00:00-07:00,Newcastle United FC,AFC Bournemouth,Hide
 English Premier League,2026-04-18,2026-04-17 17:00:00-07:00,Nottingham Forest FC,Burnley FC,Hide
+English Premier League,2026-04-18,2026-04-17 17:00:00-07:00,Newcastle United FC,AFC Bournemouth,Hide
 English Premier League,2026-04-18,2026-04-17 17:00:00-07:00,Tottenham Hotspur FC,Brighton & Hove Albion FC,Hide
 English Premier League,2026-04-18,2026-04-17 17:00:00-07:00,Aston Villa FC,Sunderland AFC,Hide
-English Premier League,2026-04-18,2026-04-17 17:00:00-07:00,Brentford FC,Fulham FC,Hide
-English Premier League,2026-04-18,2026-04-17 17:00:00-07:00,Everton FC,Liverpool FC,Hide
 English Premier League,2026-04-18,2026-04-17 17:00:00-07:00,Manchester City FC,Arsenal FC,Hide
 English Premier League,2026-04-18,2026-04-17 17:00:00-07:00,Leeds United AFC,Wolverhampton Wanderers FC,Hide
-English Premier League,2026-04-25,2026-04-24 17:00:00-07:00,Sunderland AFC,Nottingham Forest FC,Hide
+English Premier League,2026-04-18,2026-04-17 17:00:00-07:00,Everton FC,Liverpool FC,Hide
+English Premier League,2026-04-18,2026-04-17 17:00:00-07:00,Chelsea FC,Manchester United FC,Hide
+English Premier League,2026-04-18,2026-04-17 17:00:00-07:00,Brentford FC,Fulham FC,Hide
 English Premier League,2026-04-25,2026-04-24 17:00:00-07:00,West Ham United FC,Everton FC,Hide
-English Premier League,2026-04-25,2026-04-24 17:00:00-07:00,Brighton & Hove Albion FC,Chelsea FC,Hide
-English Premier League,2026-04-25,2026-04-24 17:00:00-07:00,Arsenal FC,Newcastle United FC,Hide
-English Premier League,2026-04-25,2026-04-24 17:00:00-07:00,AFC Bournemouth,Leeds United AFC,Hide
-English Premier League,2026-04-25,2026-04-24 17:00:00-07:00,Fulham FC,Aston Villa FC,Hide
-English Premier League,2026-04-25,2026-04-24 17:00:00-07:00,Liverpool FC,Crystal Palace FC,Hide
 English Premier League,2026-04-25,2026-04-24 17:00:00-07:00,Manchester United FC,Brentford FC,Hide
-English Premier League,2026-04-25,2026-04-24 17:00:00-07:00,Burnley FC,Manchester City FC,Hide
+English Premier League,2026-04-25,2026-04-24 17:00:00-07:00,Fulham FC,Aston Villa FC,Hide
+English Premier League,2026-04-25,2026-04-24 17:00:00-07:00,Arsenal FC,Newcastle United FC,Hide
 English Premier League,2026-04-25,2026-04-24 17:00:00-07:00,Wolverhampton Wanderers FC,Tottenham Hotspur FC,Hide
+English Premier League,2026-04-25,2026-04-24 17:00:00-07:00,Burnley FC,Manchester City FC,Hide
+English Premier League,2026-04-25,2026-04-24 17:00:00-07:00,Sunderland AFC,Nottingham Forest FC,Hide
+English Premier League,2026-04-25,2026-04-24 17:00:00-07:00,AFC Bournemouth,Leeds United AFC,Hide
+English Premier League,2026-04-25,2026-04-24 17:00:00-07:00,Brighton & Hove Albion FC,Chelsea FC,Hide
+English Premier League,2026-04-25,2026-04-24 17:00:00-07:00,Liverpool FC,Crystal Palace FC,Hide
 English Premier League,2026-05-02,2026-05-01 17:00:00-07:00,Newcastle United FC,Brighton & Hove Albion FC,Hide
 English Premier League,2026-05-02,2026-05-01 17:00:00-07:00,Manchester United FC,Liverpool FC,Hide
-English Premier League,2026-05-02,2026-05-01 17:00:00-07:00,Leeds United AFC,Burnley FC,Hide
-English Premier League,2026-05-02,2026-05-01 17:00:00-07:00,Everton FC,Manchester City FC,Hide
-English Premier League,2026-05-02,2026-05-01 17:00:00-07:00,Chelsea FC,Nottingham Forest FC,Hide
-English Premier League,2026-05-02,2026-05-01 17:00:00-07:00,Brentford FC,West Ham United FC,Hide
-English Premier League,2026-05-02,2026-05-01 17:00:00-07:00,Wolverhampton Wanderers FC,Sunderland AFC,Hide
-English Premier League,2026-05-02,2026-05-01 17:00:00-07:00,Arsenal FC,Fulham FC,Hide
 English Premier League,2026-05-02,2026-05-01 17:00:00-07:00,AFC Bournemouth,Crystal Palace FC,Hide
 English Premier League,2026-05-02,2026-05-01 17:00:00-07:00,Aston Villa FC,Tottenham Hotspur FC,Hide
-English Premier League,2026-05-09,2026-05-08 17:00:00-07:00,Sunderland AFC,Manchester United FC,Hide
-English Premier League,2026-05-09,2026-05-08 17:00:00-07:00,West Ham United FC,Arsenal FC,Hide
+English Premier League,2026-05-02,2026-05-01 17:00:00-07:00,Arsenal FC,Fulham FC,Hide
+English Premier League,2026-05-02,2026-05-01 17:00:00-07:00,Brentford FC,West Ham United FC,Hide
+English Premier League,2026-05-02,2026-05-01 17:00:00-07:00,Chelsea FC,Nottingham Forest FC,Hide
+English Premier League,2026-05-02,2026-05-01 17:00:00-07:00,Everton FC,Manchester City FC,Hide
+English Premier League,2026-05-02,2026-05-01 17:00:00-07:00,Leeds United AFC,Burnley FC,Hide
+English Premier League,2026-05-02,2026-05-01 17:00:00-07:00,Wolverhampton Wanderers FC,Sunderland AFC,Hide
 English Premier League,2026-05-09,2026-05-08 17:00:00-07:00,Tottenham Hotspur FC,Leeds United AFC,Hide
+English Premier League,2026-05-09,2026-05-08 17:00:00-07:00,Manchester City FC,Brentford FC,Hide
+English Premier League,2026-05-09,2026-05-08 17:00:00-07:00,West Ham United FC,Arsenal FC,Hide
 English Premier League,2026-05-09,2026-05-08 17:00:00-07:00,Liverpool FC,Chelsea FC,Hide
 English Premier League,2026-05-09,2026-05-08 17:00:00-07:00,Fulham FC,AFC Bournemouth,Hide
 English Premier League,2026-05-09,2026-05-08 17:00:00-07:00,Brighton & Hove Albion FC,Wolverhampton Wanderers FC,Hide
 English Premier League,2026-05-09,2026-05-08 17:00:00-07:00,Crystal Palace FC,Everton FC,Hide
-English Premier League,2026-05-09,2026-05-08 17:00:00-07:00,Manchester City FC,Brentford FC,Hide
+English Premier League,2026-05-09,2026-05-08 17:00:00-07:00,Sunderland AFC,Manchester United FC,Hide
 English Premier League,2026-05-09,2026-05-08 17:00:00-07:00,Nottingham Forest FC,Newcastle United FC,Hide
 English Premier League,2026-05-09,2026-05-08 17:00:00-07:00,Burnley FC,Aston Villa FC,Hide
-English Premier League,2026-05-17,2026-05-16 17:00:00-07:00,AFC Bournemouth,Manchester City FC,Hide
-English Premier League,2026-05-17,2026-05-16 17:00:00-07:00,Newcastle United FC,West Ham United FC,Hide
-English Premier League,2026-05-17,2026-05-16 17:00:00-07:00,Wolverhampton Wanderers FC,Fulham FC,Hide
+English Premier League,2026-05-17,2026-05-16 17:00:00-07:00,Chelsea FC,Tottenham Hotspur FC,Hide
 English Premier League,2026-05-17,2026-05-16 17:00:00-07:00,Aston Villa FC,Liverpool FC,Hide
+English Premier League,2026-05-17,2026-05-16 17:00:00-07:00,AFC Bournemouth,Manchester City FC,Hide
 English Premier League,2026-05-17,2026-05-16 17:00:00-07:00,Arsenal FC,Burnley FC,Hide
 English Premier League,2026-05-17,2026-05-16 17:00:00-07:00,Brentford FC,Crystal Palace FC,Hide
-English Premier League,2026-05-17,2026-05-16 17:00:00-07:00,Chelsea FC,Tottenham Hotspur FC,Hide
-English Premier League,2026-05-17,2026-05-16 17:00:00-07:00,Everton FC,Sunderland AFC,Hide
-English Premier League,2026-05-17,2026-05-16 17:00:00-07:00,Leeds United AFC,Brighton & Hove Albion FC,Hide
+English Premier League,2026-05-17,2026-05-16 17:00:00-07:00,Wolverhampton Wanderers FC,Fulham FC,Hide
+English Premier League,2026-05-17,2026-05-16 17:00:00-07:00,Newcastle United FC,West Ham United FC,Hide
 English Premier League,2026-05-17,2026-05-16 17:00:00-07:00,Manchester United FC,Nottingham Forest FC,Hide
+English Premier League,2026-05-17,2026-05-16 17:00:00-07:00,Leeds United AFC,Brighton & Hove Albion FC,Hide
+English Premier League,2026-05-17,2026-05-16 17:00:00-07:00,Everton FC,Sunderland AFC,Hide
+English Premier League,2026-05-24,2026-05-23 17:00:00-07:00,Brighton & Hove Albion FC,Manchester United FC,Hide
+English Premier League,2026-05-24,2026-05-23 17:00:00-07:00,Crystal Palace FC,Arsenal FC,Hide
+English Premier League,2026-05-24,2026-05-23 17:00:00-07:00,Sunderland AFC,Chelsea FC,Hide
+English Premier League,2026-05-24,2026-05-23 17:00:00-07:00,Burnley FC,Wolverhampton Wanderers FC,Hide
+English Premier League,2026-05-24,2026-05-23 17:00:00-07:00,Liverpool FC,Brentford FC,Hide
 English Premier League,2026-05-24,2026-05-23 17:00:00-07:00,Tottenham Hotspur FC,Everton FC,Hide
+English Premier League,2026-05-24,2026-05-23 17:00:00-07:00,Fulham FC,Newcastle United FC,Hide
+English Premier League,2026-05-24,2026-05-23 17:00:00-07:00,Manchester City FC,Aston Villa FC,Hide
 English Premier League,2026-05-24,2026-05-23 17:00:00-07:00,West Ham United FC,Leeds United AFC,Hide
 English Premier League,2026-05-24,2026-05-23 17:00:00-07:00,Nottingham Forest FC,AFC Bournemouth,Hide
-English Premier League,2026-05-24,2026-05-23 17:00:00-07:00,Fulham FC,Newcastle United FC,Hide
-English Premier League,2026-05-24,2026-05-23 17:00:00-07:00,Sunderland AFC,Chelsea FC,Hide
-English Premier League,2026-05-24,2026-05-23 17:00:00-07:00,Crystal Palace FC,Arsenal FC,Hide
-English Premier League,2026-05-24,2026-05-23 17:00:00-07:00,Brighton & Hove Albion FC,Manchester United FC,Hide
-English Premier League,2026-05-24,2026-05-23 17:00:00-07:00,Liverpool FC,Brentford FC,Hide
-English Premier League,2026-05-24,2026-05-23 17:00:00-07:00,Burnley FC,Wolverhampton Wanderers FC,Hide
-English Premier League,2026-05-24,2026-05-23 17:00:00-07:00,Manchester City FC,Aston Villa FC,Hide

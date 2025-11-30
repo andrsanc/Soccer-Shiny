@@ -680,18 +680,18 @@
 2025-11-23,West Ham United FC,winner,0.0
 2025-11-23,Wolverhampton Wanderers FC,winner,0.0
 2025-11-24,AFC Bournemouth,winner,0.0
-2025-11-24,Arsenal FC,winner,0.78
-2025-11-24,Aston Villa FC,winner,0.02
+2025-11-24,Arsenal FC,winner,0.83
+2025-11-24,Aston Villa FC,winner,0.03
 2025-11-24,Brentford FC,winner,0.0
 2025-11-24,Brighton & Hove Albion FC,winner,0.0
 2025-11-24,Burnley FC,winner,0.0
-2025-11-24,Chelsea FC,winner,0.11
-2025-11-24,Crystal Palace FC,winner,0.0
+2025-11-24,Chelsea FC,winner,0.1
+2025-11-24,Crystal Palace FC,winner,0.01
 2025-11-24,Everton FC,winner,0.0
 2025-11-24,Fulham FC,winner,0.0
 2025-11-24,Leeds United AFC,winner,0.0
-2025-11-24,Liverpool FC,winner,0.0
-2025-11-24,Manchester City FC,winner,0.09
+2025-11-24,Liverpool FC,winner,0.02
+2025-11-24,Manchester City FC,winner,0.01
 2025-11-24,Manchester United FC,winner,0.0
 2025-11-24,Newcastle United FC,winner,0.0
 2025-11-24,Nottingham Forest FC,winner,0.0
@@ -699,6 +699,26 @@
 2025-11-24,Tottenham Hotspur FC,winner,0.0
 2025-11-24,West Ham United FC,winner,0.0
 2025-11-24,Wolverhampton Wanderers FC,winner,0.0
+2025-11-29,AFC Bournemouth,winner,0.0
+2025-11-29,Arsenal FC,winner,0.8
+2025-11-29,Aston Villa FC,winner,0.04
+2025-11-29,Brentford FC,winner,0.0
+2025-11-29,Brighton & Hove Albion FC,winner,0.0
+2025-11-29,Burnley FC,winner,0.0
+2025-11-29,Chelsea FC,winner,0.07
+2025-11-29,Crystal Palace FC,winner,0.01
+2025-11-29,Everton FC,winner,0.0
+2025-11-29,Fulham FC,winner,0.0
+2025-11-29,Leeds United AFC,winner,0.0
+2025-11-29,Liverpool FC,winner,0.03
+2025-11-29,Manchester City FC,winner,0.04
+2025-11-29,Manchester United FC,winner,0.0
+2025-11-29,Newcastle United FC,winner,0.01
+2025-11-29,Nottingham Forest FC,winner,0.0
+2025-11-29,Sunderland AFC,winner,0.0
+2025-11-29,Tottenham Hotspur FC,winner,0.0
+2025-11-29,West Ham United FC,winner,0.0
+2025-11-29,Wolverhampton Wanderers FC,winner,0.0
 2025-08-14,AFC Bournemouth,ucl,0.24
 2025-08-14,Arsenal FC,ucl,0.77
 2025-08-14,Aston Villa FC,ucl,0.12
@@ -1379,26 +1399,46 @@
 2025-11-23,Tottenham Hotspur FC,ucl,0.03
 2025-11-23,West Ham United FC,ucl,0.0
 2025-11-23,Wolverhampton Wanderers FC,ucl,0.0
-2025-11-24,AFC Bournemouth,ucl,0.0
+2025-11-24,AFC Bournemouth,ucl,0.03
 2025-11-24,Arsenal FC,ucl,0.99
-2025-11-24,Aston Villa FC,ucl,0.58
+2025-11-24,Aston Villa FC,ucl,0.57
 2025-11-24,Brentford FC,ucl,0.04
-2025-11-24,Brighton & Hove Albion FC,ucl,0.07
+2025-11-24,Brighton & Hove Albion FC,ucl,0.04
 2025-11-24,Burnley FC,ucl,0.0
-2025-11-24,Chelsea FC,ucl,0.88
-2025-11-24,Crystal Palace FC,ucl,0.21
+2025-11-24,Chelsea FC,ucl,0.77
+2025-11-24,Crystal Palace FC,ucl,0.11
 2025-11-24,Everton FC,ucl,0.0
-2025-11-24,Fulham FC,ucl,0.02
+2025-11-24,Fulham FC,ucl,0.01
 2025-11-24,Leeds United AFC,ucl,0.0
-2025-11-24,Liverpool FC,ucl,0.26
-2025-11-24,Manchester City FC,ucl,0.76
-2025-11-24,Manchester United FC,ucl,0.02
-2025-11-24,Newcastle United FC,ucl,0.09
-2025-11-24,Nottingham Forest FC,ucl,0.05
+2025-11-24,Liverpool FC,ucl,0.45
+2025-11-24,Manchester City FC,ucl,0.59
+2025-11-24,Manchester United FC,ucl,0.06
+2025-11-24,Newcastle United FC,ucl,0.28
+2025-11-24,Nottingham Forest FC,ucl,0.0
 2025-11-24,Sunderland AFC,ucl,0.0
-2025-11-24,Tottenham Hotspur FC,ucl,0.03
+2025-11-24,Tottenham Hotspur FC,ucl,0.06
 2025-11-24,West Ham United FC,ucl,0.0
 2025-11-24,Wolverhampton Wanderers FC,ucl,0.0
+2025-11-29,AFC Bournemouth,ucl,0.01
+2025-11-29,Arsenal FC,ucl,0.96
+2025-11-29,Aston Villa FC,ucl,0.5
+2025-11-29,Brentford FC,ucl,0.1
+2025-11-29,Brighton & Hove Albion FC,ucl,0.01
+2025-11-29,Burnley FC,ucl,0.0
+2025-11-29,Chelsea FC,ucl,0.81
+2025-11-29,Crystal Palace FC,ucl,0.15
+2025-11-29,Everton FC,ucl,0.0
+2025-11-29,Fulham FC,ucl,0.02
+2025-11-29,Leeds United AFC,ucl,0.0
+2025-11-29,Liverpool FC,ucl,0.36
+2025-11-29,Manchester City FC,ucl,0.62
+2025-11-29,Manchester United FC,ucl,0.02
+2025-11-29,Newcastle United FC,ucl,0.37
+2025-11-29,Nottingham Forest FC,ucl,0.02
+2025-11-29,Sunderland AFC,ucl,0.0
+2025-11-29,Tottenham Hotspur FC,ucl,0.05
+2025-11-29,West Ham United FC,ucl,0.0
+2025-11-29,Wolverhampton Wanderers FC,ucl,0.0
 2025-08-14,AFC Bournemouth,europa,0.16
 2025-08-14,Arsenal FC,europa,0.13
 2025-08-14,Aston Villa FC,europa,0.09
@@ -2079,26 +2119,46 @@
 2025-11-23,Tottenham Hotspur FC,europa,0.06
 2025-11-23,West Ham United FC,europa,0.01
 2025-11-23,Wolverhampton Wanderers FC,europa,0.0
-2025-11-24,AFC Bournemouth,europa,0.0
-2025-11-24,Arsenal FC,europa,0.01
-2025-11-24,Aston Villa FC,europa,0.11
+2025-11-24,AFC Bournemouth,europa,0.01
+2025-11-24,Arsenal FC,europa,0.0
+2025-11-24,Aston Villa FC,europa,0.17
 2025-11-24,Brentford FC,europa,0.05
-2025-11-24,Brighton & Hove Albion FC,europa,0.05
+2025-11-24,Brighton & Hove Albion FC,europa,0.04
 2025-11-24,Burnley FC,europa,0.0
-2025-11-24,Chelsea FC,europa,0.06
+2025-11-24,Chelsea FC,europa,0.08
 2025-11-24,Crystal Palace FC,europa,0.09
-2025-11-24,Everton FC,europa,0.01
-2025-11-24,Fulham FC,europa,0.02
+2025-11-24,Everton FC,europa,0.0
+2025-11-24,Fulham FC,europa,0.0
 2025-11-24,Leeds United AFC,europa,0.0
-2025-11-24,Liverpool FC,europa,0.14
-2025-11-24,Manchester City FC,europa,0.07
-2025-11-24,Manchester United FC,europa,0.09
-2025-11-24,Newcastle United FC,europa,0.15
-2025-11-24,Nottingham Forest FC,europa,0.12
+2025-11-24,Liverpool FC,europa,0.15
+2025-11-24,Manchester City FC,europa,0.13
+2025-11-24,Manchester United FC,europa,0.04
+2025-11-24,Newcastle United FC,europa,0.13
+2025-11-24,Nottingham Forest FC,europa,0.04
 2025-11-24,Sunderland AFC,europa,0.0
-2025-11-24,Tottenham Hotspur FC,europa,0.03
+2025-11-24,Tottenham Hotspur FC,europa,0.07
 2025-11-24,West Ham United FC,europa,0.0
 2025-11-24,Wolverhampton Wanderers FC,europa,0.0
+2025-11-29,AFC Bournemouth,europa,0.0
+2025-11-29,Arsenal FC,europa,0.03
+2025-11-29,Aston Villa FC,europa,0.16
+2025-11-29,Brentford FC,europa,0.03
+2025-11-29,Brighton & Hove Albion FC,europa,0.01
+2025-11-29,Burnley FC,europa,0.0
+2025-11-29,Chelsea FC,europa,0.09
+2025-11-29,Crystal Palace FC,europa,0.05
+2025-11-29,Everton FC,europa,0.0
+2025-11-29,Fulham FC,europa,0.02
+2025-11-29,Leeds United AFC,europa,0.0
+2025-11-29,Liverpool FC,europa,0.16
+2025-11-29,Manchester City FC,europa,0.2
+2025-11-29,Manchester United FC,europa,0.03
+2025-11-29,Newcastle United FC,europa,0.2
+2025-11-29,Nottingham Forest FC,europa,0.01
+2025-11-29,Sunderland AFC,europa,0.0
+2025-11-29,Tottenham Hotspur FC,europa,0.01
+2025-11-29,West Ham United FC,europa,0.0
+2025-11-29,Wolverhampton Wanderers FC,europa,0.0
 2025-08-14,AFC Bournemouth,relegated,0.01
 2025-08-14,Arsenal FC,relegated,0.0
 2025-08-14,Aston Villa FC,relegated,0.02
@@ -2779,23 +2839,43 @@
 2025-11-23,Tottenham Hotspur FC,relegated,0.0
 2025-11-23,West Ham United FC,relegated,0.03
 2025-11-23,Wolverhampton Wanderers FC,relegated,0.93
-2025-11-24,AFC Bournemouth,relegated,0.03
+2025-11-24,AFC Bournemouth,relegated,0.01
 2025-11-24,Arsenal FC,relegated,0.0
 2025-11-24,Aston Villa FC,relegated,0.0
 2025-11-24,Brentford FC,relegated,0.0
 2025-11-24,Brighton & Hove Albion FC,relegated,0.0
-2025-11-24,Burnley FC,relegated,0.7
+2025-11-24,Burnley FC,relegated,0.66
 2025-11-24,Chelsea FC,relegated,0.0
 2025-11-24,Crystal Palace FC,relegated,0.0
 2025-11-24,Everton FC,relegated,0.03
 2025-11-24,Fulham FC,relegated,0.01
-2025-11-24,Leeds United AFC,relegated,0.88
+2025-11-24,Leeds United AFC,relegated,0.82
 2025-11-24,Liverpool FC,relegated,0.0
 2025-11-24,Manchester City FC,relegated,0.0
-2025-11-24,Manchester United FC,relegated,0.0
+2025-11-24,Manchester United FC,relegated,0.01
 2025-11-24,Newcastle United FC,relegated,0.0
-2025-11-24,Nottingham Forest FC,relegated,0.0
-2025-11-24,Sunderland AFC,relegated,0.33
-2025-11-24,Tottenham Hotspur FC,relegated,0.01
-2025-11-24,West Ham United FC,relegated,0.04
-2025-11-24,Wolverhampton Wanderers FC,relegated,0.97
+2025-11-24,Nottingham Forest FC,relegated,0.01
+2025-11-24,Sunderland AFC,relegated,0.43
+2025-11-24,Tottenham Hotspur FC,relegated,0.0
+2025-11-24,West Ham United FC,relegated,0.2
+2025-11-24,Wolverhampton Wanderers FC,relegated,0.82
+2025-11-29,AFC Bournemouth,relegated,0.06
+2025-11-29,Arsenal FC,relegated,0.0
+2025-11-29,Aston Villa FC,relegated,0.0
+2025-11-29,Brentford FC,relegated,0.0
+2025-11-29,Brighton & Hove Albion FC,relegated,0.0
+2025-11-29,Burnley FC,relegated,0.65
+2025-11-29,Chelsea FC,relegated,0.0
+2025-11-29,Crystal Palace FC,relegated,0.0
+2025-11-29,Everton FC,relegated,0.07
+2025-11-29,Fulham FC,relegated,0.0
+2025-11-29,Leeds United AFC,relegated,0.81
+2025-11-29,Liverpool FC,relegated,0.0
+2025-11-29,Manchester City FC,relegated,0.0
+2025-11-29,Manchester United FC,relegated,0.0
+2025-11-29,Newcastle United FC,relegated,0.0
+2025-11-29,Nottingham Forest FC,relegated,0.0
+2025-11-29,Sunderland AFC,relegated,0.29
+2025-11-29,Tottenham Hotspur FC,relegated,0.0
+2025-11-29,West Ham United FC,relegated,0.26
+2025-11-29,Wolverhampton Wanderers FC,relegated,0.86
