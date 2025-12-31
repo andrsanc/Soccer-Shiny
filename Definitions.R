@@ -276,7 +276,7 @@ leagues_df <-
                    league.logo = "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",
                    
                    league.color = "white",
-                   league.style = "width:40px;height:40px;"),
+                   league.style = "width:30px;height:40px;"),
         
         data.frame(league.name = "EFL Cup",
                    league.logo = "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/EFL_%28Carabao%29_Cup_Logo.svg/300px-EFL_%28Carabao%29_Cup_Logo.svg.png",

@@ -742,7 +742,7 @@ server <-
       if (input$epl_table_season == current_season_full) {
         table_header <- "Table:"
         base_len <- c(99, 40, 60, 99, 270, 50, 99, 
-                      70, 50, 50, 50, 50, 50, 60, 70)
+                      70, 40, 40, 40, 40, 40, 60, 70)
       } else {
         table_header <- ""
         base_len <- c(99, 40, 60, 99, 270, 50, NULL, 

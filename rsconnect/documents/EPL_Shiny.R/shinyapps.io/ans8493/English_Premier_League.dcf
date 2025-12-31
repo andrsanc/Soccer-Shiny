@@ -1,0 +1,13 @@
+name: English_Premier_League
+title: English_Premier_League
+username: ans8493
+account: ans8493
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15255831
+bundleId: 11384768
+url: https://ans8493.shinyapps.io/English_Premier_League/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Data_Import.R|pictures/shiny_dashboard.png|README.md
