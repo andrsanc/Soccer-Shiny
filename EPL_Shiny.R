@@ -537,7 +537,7 @@ server <-
       df <- simulation_reactive()
       if (input$sim_metric == "Probability") {
         df$y_label <- scales::percent(df$y, acccuracy = .01)
-        plot_ymax <- 1
+        plot_ymax <- 1.05
         plot_tick <- ".0%"
       } else if (input$sim_metric == "Expected Points") {
         df$y_label <- scales::comma(round(df$y, 1), acccuracy = .1)
