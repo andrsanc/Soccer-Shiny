@@ -273,8 +273,7 @@ leagues_df <-
                    league.style = "width:52px;height:25px;"),
         
         data.frame(league.name = "FA Cup",
-                   league.logo = "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",
-                   
+                   league.logo = "https://upload.wikimedia.org/wikipedia/en/d/d5/FA_Cup_logo_%282020%29.svg",
                    league.color = "white",
                    league.style = "width:30px;height:40px;"),
         
