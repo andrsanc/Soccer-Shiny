@@ -11,7 +11,6 @@ library(sparkline)
 # Initialize----
 source("Data_Import.R", local = TRUE)
 source("Data_Preparation.R", local = TRUE)
-source("Definitions.R", local = TRUE)
 source("Upcoming_Games.R", local = TRUE)
 source("By_Opponents.R", local = TRUE)
 source("By_Fixture.R", local = TRUE)
