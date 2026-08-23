@@ -9,7 +9,7 @@ library(plotly)
 library(sparkline)
 
 # Initialize----
-source("Data_Import.R", local = TRUE)
+source("Data_Import_Dropbox.R", local = TRUE)
 source("Data_Preparation.R", local = TRUE)
 source("Upcoming_Games.R", local = TRUE)
 source("By_Opponents.R", local = TRUE)
@@ -534,6 +534,14 @@ server <-
     output$simulation <- plotly::renderPlotly({
       req(input$sim_metric)
       df <- simulation_reactive()
+      
+      plot_colors <- 
+        df %>%
+        dplyr::distinct(team, team.color) %>%
+        dplyr::arrange(team) %>%
+        .$team.color
+      
+      
       if (input$sim_metric == "Probability") {
         df$y_label <- scales::percent(df$y, acccuracy = .01)
         plot_ymax <- 1.05
@@ -547,7 +555,8 @@ server <-
         plotly::plot_ly(x = ~sim.date,
                         y = ~y,
                         color = ~team,
-                        colors = unique(df$team.color),
+                        #colors = unique(df$team.color),
+                        colors = plot_colors,
                         type = "scatter",
                         mode = 'lines+markers',
                         hoverinfo = 'text',
@@ -1004,6 +1013,11 @@ server <-
       req(input$fd_metric)
       req(input$fd_team)
       df <- fdb_rank_reactive()
+      plot_colors <- 
+        df %>%
+        dplyr::distinct(team, team.color) %>%
+        dplyr::arrange(team) %>%
+        .$team.color
       min_month <- min(df$month)
       max_month <- max(df$month)
       month_end <- max_month + ((max_month - min_month) / 3)
@@ -1040,7 +1054,7 @@ server <-
         plotly::plot_ly(x = ~month,
                         y = ~value,
                         color = ~team,
-                        colors = unique(df$team.color),
+                        colors = plot_colors,
                         type = "scatter",
                         mode = 'lines+markers',
                         hoverinfo = 'text',

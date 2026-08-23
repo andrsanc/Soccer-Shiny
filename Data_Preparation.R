@@ -11,10 +11,11 @@ current_season_full <- dplyr::filter(epl_table_raw_df, current.season.ind == "Cu
 
 # EPL teams
 epl_teams_df <-
-  by_fixture_raw_df %>%
-  dplyr::filter(current.season.ind == "Yes") %>%
+  sim_table_raw_df %>%
+  dplyr::filter(last.sim.ind == 1) %>%
   dplyr::select(team) %>%
-  dplyr::distinct()
+  dplyr::distinct() %>%
+  dplyr::arrange(team)
 epl_teams <- epl_teams_df$team
 
 # Last 5 seasons
